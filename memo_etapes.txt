@@ -4,11 +4,11 @@ ajout de la bibliothèque hibernate-release-5.4.14.Final
 
 on recupère les jars dans lib/required
 
-on les ajoute dans la bibliotheque F4 + ajout + coller les jars 
- + donner un nom 
- 
+on les ajoute dans la bibliotheque F4 + ajout + coller les jars
+ + donner un nom
+
 on verifie dans module
- 
+
 on cree un fichier META-INF à la racine de src
 
 dedans on créé un fichier persistence.xml
@@ -28,5 +28,6 @@ dedans on créé un fichier persistence.xml
       <property name="javax.persistence.jdbc.password" value=""/>
     </properties>
   </persistence-unit>
-</persistence> 
+</persistence>
 
+ pour mysql: <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/BDD?serverTimezone=UTC"/>

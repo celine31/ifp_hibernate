@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="66ba9c2d-b8fd-43f6-a7d2-bdd55ba92b99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/ifp_db/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/db/ifp_db/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/ifp_db/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/db/ifp_db/log/log.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/ifp_db/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/ifp_db/log/log1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/ifp_db/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/db/ifp_db/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memo_etapes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/memo_etapes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Journaliste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Journaliste.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
